@@ -26,7 +26,7 @@ sudo setcap cap_net_raw,cap_net_admin=eip target/debug/machammer
 Run the binary
 
 ```bash
-./target/debug/machammer
+./target/release/machammer
 ```
 
 ### Dev
